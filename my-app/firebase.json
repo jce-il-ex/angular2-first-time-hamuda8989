@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "/Users/natashamotova/Documents/GitHub/angular2-first-time-hamuda8989/my-app",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
